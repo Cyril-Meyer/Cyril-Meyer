@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hello there 👋
+
+* 📝 My name is Cyril Meyer
+* 🔭 I’m currently working on my thesis : deep learning for segmentation of FIB/SEM images
+* 📫 How to reach me
+  * E-mail : contact [at] cyrilmeyer [dot] eu  
+  * LinkedIn : [cyril-meyer](https://www.linkedin.com/in/cyril-meyer/)  
 
 <!--
 **Cyril-Meyer/Cyril-Meyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
