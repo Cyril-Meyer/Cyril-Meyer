@@ -5,6 +5,7 @@
 * 📫 How to reach me
   * E-mail : contact [at] cyrilmeyer [dot] eu  
   * LinkedIn : [cyril-meyer](https://www.linkedin.com/in/cyril-meyer/)  
+* 🌐 Visit my personal page [cyrilmeyer.eu](https://cyrilmeyer.eu/)
 
 <!--
 **Cyril-Meyer/Cyril-Meyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
