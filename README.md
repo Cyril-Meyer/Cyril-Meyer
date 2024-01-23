@@ -1,7 +1,8 @@
 ### Hello there 👋
 
 * 📝 My name is Cyril Meyer
-* 🔭 I’m currently working on my thesis : deep learning for segmentation of FIB/SEM images
+* 🏫 I’m currently working at the university of Strasbourg as a temporary teaching and research associate
+* 🔭 I have a PhD in computer science; subject: deep learning image segmentation in electron microscopy for quantitative analysis of cellular ultrastructure
 * 📫 How to reach me
   * E-mail : contact [at] cyrilmeyer [dot] eu  
   * LinkedIn : [cyril-meyer](https://www.linkedin.com/in/cyril-meyer/)  
