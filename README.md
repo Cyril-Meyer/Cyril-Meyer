@@ -1,7 +1,7 @@
 ### Hello there 👋
 
 * 📝 My name is Cyril Meyer
-* 🏫 I’m currently working at the university of Strasbourg as a temporary teaching and research associate
+* 🏫 I’m currently working at the Université de Haute-Alsace (UHA) and IRIMAS institute as a permanente teaching and research associate
 * 🔭 I have a PhD in computer science; subject: deep learning image segmentation in electron microscopy for quantitative analysis of cellular ultrastructure
 * 📫 How to reach me
   * E-mail : contact [at] cyrilmeyer [dot] eu  
